@@ -1,0 +1,15 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+server.log
+
+# Dependencies
+node_modules/
+
+# Local Claude Code tooling / preview config
+.claude/
+.mcp.json
